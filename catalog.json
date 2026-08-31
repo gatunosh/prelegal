@@ -1,0 +1,67 @@
+{
+  "source": "https://github.com/CommonPaper",
+  "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+  "description": "Catalog of standard legal agreement templates from Common Paper, stored in the templates/ directory. All documents are free to use and modify under CC BY 4.0.",
+  "templates": [
+    {
+      "name": "Mutual Non-Disclosure Agreement (Standard Terms)",
+      "description": "Common Paper standard Mutual NDA Standard Terms (v1.0). Reciprocal confidentiality terms covering use and protection of Confidential Information, exceptions, required disclosures, term, return/destruction, and governing law. Incorporated by reference into the MNDA Cover Page.",
+      "filename": "Mutual-NDA.md"
+    },
+    {
+      "name": "Mutual Non-Disclosure Agreement (Cover Page)",
+      "description": "Common Paper Mutual NDA Cover Page (v1.0). Fill-in-the-blanks signature page that sets the Purpose, Effective Date, MNDA Term, Term of Confidentiality, governing law and jurisdiction, and incorporates the MNDA Standard Terms.",
+      "filename": "Mutual-NDA-coverpage.md"
+    },
+    {
+      "name": "Cloud Service Agreement",
+      "description": "Common Paper standard Cloud Service Agreement Standard Terms (v2.1) for SaaS/cloud subscriptions: access and use, support, user accounts, feedback and usage data, customer content, machine learning, restrictions, privacy and security, payment and taxes, term and termination, warranties, liability caps, indemnification, and confidentiality.",
+      "filename": "CSA.md"
+    },
+    {
+      "name": "Design Partner Agreement",
+      "description": "Common Paper standard Design Partner Agreement Standard Terms. Governs early-access design-partner programs: product access, feedback obligations, fees, term and termination, confidentiality, and IP ownership of feedback.",
+      "filename": "Design-Partner-Agreement.md"
+    },
+    {
+      "name": "Service Level Agreement",
+      "description": "Common Paper Service Level Agreement Standard Terms (v2.0). Defines target uptime and response time, how availability and response time are calculated, service credits and how to request them, termination for chronic failures, and the related definitions.",
+      "filename": "SLA.md"
+    },
+    {
+      "name": "Professional Services Agreement",
+      "description": "Common Paper standard Professional Services Agreement Standard Terms for consulting and professional services engagements scoped via Statements of Work: services and SOWs, deliverables, fees, IP ownership, warranties, liability, indemnification, and confidentiality.",
+      "filename": "PSA.md"
+    },
+    {
+      "name": "Data Processing Agreement",
+      "description": "Common Paper Data Processing Agreement. Controller/processor data protection terms addressing processing instructions, confidentiality, security, subprocessors, data subject requests, international transfers (EEA SCCs and UK Addendum), audits, and deletion of personal data under GDPR/UK GDPR.",
+      "filename": "DPA.md"
+    },
+    {
+      "name": "Software License Agreement",
+      "description": "Common Paper standard Software License Standard Terms (v1.1) for licensing software (on-prem or downloadable): license grant and restrictions, delivery, support, fees, IP ownership, warranties, liability, indemnification, and confidentiality.",
+      "filename": "Software-License-Agreement.md"
+    },
+    {
+      "name": "Partnership Agreement",
+      "description": "Common Paper standard Partnership Standard Terms (v1.0) for commercial go-to-market partnerships (referral, reseller, co-marketing): partner obligations, fees and commissions, trademark use, term and termination, warranties, liability, and confidentiality.",
+      "filename": "Partnership-Agreement.md"
+    },
+    {
+      "name": "Business Associate Agreement",
+      "description": "Common Paper standard Business Associate Agreement Standard Terms (v1.0). HIPAA business associate terms covering permitted uses and disclosures of protected health information, safeguards, subcontractors, breach notification, individual rights, and return or destruction of PHI.",
+      "filename": "BAA.md"
+    },
+    {
+      "name": "Pilot Agreement",
+      "description": "Common Paper standard Pilot Agreement Standard Terms (v1.1) for time-boxed paid or unpaid product pilots/proofs of concept: pilot scope and period, fees, evaluation and feedback, conversion to a full agreement, term and termination, warranties, liability, and confidentiality.",
+      "filename": "Pilot-Agreement.md"
+    },
+    {
+      "name": "AI Addendum",
+      "description": "Common Paper Standard AI Addendum Standard Terms (v1.0). Addendum to a base agreement addressing AI-specific issues: input and output ownership, permitted use of data for training, model accuracy disclaimers, acceptable use, intellectual property, and allocation of AI-related risk.",
+      "filename": "AI-Addendum.md"
+    }
+  ]
+}
