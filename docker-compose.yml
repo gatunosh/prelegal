@@ -1,0 +1,10 @@
+services:
+  app:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      # Compose reads ./.env automatically for these substitutions.
+      JWT_SECRET: ${JWT_SECRET:-dev-insecure-secret-change-me-0123456789abcdef}
+      OPENROUTER_API_KEY: ${OPENROUTER_API_KEY:-}
+    # No volumes: the SQLite database is meant to be recreated on every start.

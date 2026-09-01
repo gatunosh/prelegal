@@ -1,0 +1,12 @@
+.git
+.claude
+**/node_modules
+**/.next
+frontend/out
+backend/.venv
+backend/data
+backend/static
+**/__pycache__
+**/.pytest_cache
+**/.ruff_cache
+**/*.md
