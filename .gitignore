@@ -42,6 +42,10 @@ htmlcov/
 .ruff_cache/
 .hypothesis/
 
+# Backend runtime artifacts
+backend/data/
+backend/static/
+
 # ---------- Node / Next.js ----------
 node_modules/
 .pnp
